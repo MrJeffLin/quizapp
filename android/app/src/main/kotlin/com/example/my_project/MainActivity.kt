@@ -1,4 +1,4 @@
-package com.mycompany.quizapp2
+package com.mycompany.quizapptest
 
 import io.flutter.embedding.android.FlutterActivity
 

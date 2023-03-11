@@ -1,6 +1,6 @@
 {
-    "name": "QuizApp2",
-    "short_name": "QuizApp2",
+    "name": "quizapptest",
+    "short_name": "quizapptest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
